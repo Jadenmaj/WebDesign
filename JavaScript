@@ -1,16 +1,16 @@
 <nav>
   <ul>
     <li>
-        <a href="/">Home</a>
+        <a href="/">The Basics</a>
     </li>
     <li>
-        <a href="/print">Print Design</a>
+        <a href="/print">Rules</a>
     </li>
     <li>
-        <a href="/web">Web Design</a>
+        <a href="/web">Where to Play</a>
     </li>
     <li>
-        <a href="/bio">Bio</a>
+        <a href="/bio">Equipment</a>
     </li>
     <li>
         <a href="/contact">Contact</a>
