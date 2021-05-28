@@ -1,19 +1,17 @@
 <nav>
   <ul>
     <li>
-        <a href="/">The Basics</a>
+        <a href="/The Basics">The Basics of Squash</a>
     </li>
     <li>
-        <a href="/print">Rules</a>
+        <a href="/Rules">The Rules of Squash</a>
     </li>
     <li>
-        <a href="/web">Where to Play</a>
+        <a href="/Where to play">Where to Play Squash</a>
     </li>
     <li>
-        <a href="/bio">Equipment</a>
+        <a href="/Equipment">Equipment Needed for Squash</a>
     </li>
-    <li>
-        <a href="/contact">Contact</a>
-    </li>
+    
   </ul>
 </nav>
