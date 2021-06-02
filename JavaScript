@@ -1,3 +1,4 @@
+<script>
 <nav>
   <ul>
     <li>
@@ -15,3 +16,4 @@
     
   </ul>
 </nav>
+</script>
